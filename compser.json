@@ -1,0 +1,14 @@
+{
+    "name": "mywebsolutions/hello-world",
+    "authors": [
+        {
+            "name": "mywebsolutions"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
