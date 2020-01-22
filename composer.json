@@ -1,0 +1,11 @@
+{
+    "name": "pkj/hello-world",
+    "description": "Testing building extn for yii2",
+    "authors": [
+        {
+            "name": "Pawan Joshi",
+            "email": "info@mywebsolutions.co.in"
+        }
+    ],
+    "require": {}
+}
